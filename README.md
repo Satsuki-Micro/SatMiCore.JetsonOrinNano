@@ -1,1 +1,1 @@
-# <div>Jetson Orin Nano</div>
+# <div align=center>Jetson Orin Nano</div>
